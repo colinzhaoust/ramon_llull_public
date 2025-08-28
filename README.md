@@ -19,7 +19,7 @@ At the current stage of the project, we identify three disks of concepts:
 
 2. Domain (B): some domains of tasks people work on, e.g., argument mining.
 
-3. Architecture (C): some architecture of the research, e.g., Mamba
+3. Method (C): some methods orarchitecture of the research, e.g., Mamba
 
 There are other components to make sure that control the expressions:
 
