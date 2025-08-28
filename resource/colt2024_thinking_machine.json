@@ -1,0 +1,1035 @@
+{
+    "A": {
+        "Adaptivity": [
+            "adaptive",
+            "non-adaptive"
+        ],
+        "Robustness": [
+            "robust",
+            "robustness"
+        ],
+        "Optimality": [
+            "optimal",
+            "optimality",
+            "near-optimal"
+        ],
+        "Online Learning": [
+            "online learning",
+            "online"
+        ],
+        "Sampling Techniques": [
+            "sampling"
+        ],
+        "Active Learning": [
+            "active learning"
+        ],
+        "High Dimensionality": [
+            "high-dimensional",
+            "high-dimensions"
+        ],
+        "Sparsity": [
+            "sparse",
+            "sparsity",
+            "sparsification"
+        ],
+        "Generalization": [
+            "generalization"
+        ],
+        "Privacy": [
+            "privacy",
+            "differentially private",
+            "differentially-private"
+        ],
+        "Stochasticity": [
+            "stochastic"
+        ],
+        "Reconstruction": [
+            "reconstruction",
+            "recovery"
+        ],
+        "Learnability": [
+            "learnability"
+        ],
+        "Efficiency": [
+            "efficiency",
+            "efficient"
+        ],
+        "Data Efficiency": [
+            "sample-efficient",
+            "data-efficient",
+            "data efficiency"
+        ],
+        "Distribution Shift": [
+            "distribution shift"
+        ],
+        "Approximation": [
+            "approximation",
+            "approximate"
+        ],
+        "Speed": [
+            "faster",
+            "fast mixing"
+        ],
+        "Long Tail": [
+            "long-tail"
+        ],
+        "Parallelism": [
+            "parallel"
+        ],
+        "Convergence": [
+            "convergence"
+        ],
+        "Randomness": [
+            "randomness"
+        ],
+        "Stability": [
+            "stability"
+        ],
+        "Few-Shot Learning": [
+            "few-shot"
+        ],
+        "Lower Bounds": [
+            "lower bound",
+            "lower bounds"
+        ],
+        "Granularity": [
+            "granularity"
+        ],
+        "Minimax": [
+            "minimax",
+            "minimax regret"
+        ],
+        "Weak Supervision": [
+            "weak supervision"
+        ],
+        "Calibration": [
+            "calibration"
+        ],
+        "Sample Complexity": [
+            "sample complexity",
+            "sample compression"
+        ],
+        "Data Dependence": [
+            "data-dependent"
+        ],
+        "Regret Minimization": [
+            "regret minimization",
+            "regret",
+            "surrogate regret"
+        ],
+        "Interpretability": [
+            "interpretable",
+            "interpretability"
+        ],
+        "Characterization": [
+            "characterization"
+        ],
+        "Graph Theory": [
+            "graph theory"
+        ],
+        "Simplicity": [
+            "simpler"
+        ],
+        "Parameter-Free Methods": [
+            "parameter-free"
+        ],
+        "Information Theory": [
+            "information-theoretic"
+        ],
+        "Constraints": [
+            "constraints",
+            "constrained"
+        ],
+        "Concentration": [
+            "concentration"
+        ],
+        "Reduction": [
+            "reduction"
+        ],
+        "Weak Recovery": [
+            "weak recovery",
+            "weak to strong"
+        ],
+        "None": [
+            "none"
+        ],
+        "Grokking": [
+            "grokking"
+        ],
+        "Small Initialization": [
+            "small initialization"
+        ],
+        "Diffusion": [
+            "diffusion"
+        ],
+        "Near-Optimality": [
+            "near-optimal"
+        ],
+        "Hardness": [
+            "hardness results",
+            "inapproximability"
+        ],
+        "Large Stepsize": [
+            "large stepsize"
+        ],
+        "Compositionality": [
+            "compositionality"
+        ],
+        "Sublinear": [
+            "sublinear"
+        ],
+        "Meta-Learning": [
+            "meta-learning"
+        ],
+        "Exploration": [
+            "exploration"
+        ],
+        "Reward-Free": [
+            "reward-free"
+        ],
+        "Statistical Threshold": [
+            "statistical threshold"
+        ],
+        "Teaching": [
+            "teaching"
+        ],
+        "Nonlinearity": [
+            "nonlinear"
+        ],
+        "Offline Learning": [
+            "offline"
+        ],
+        "IID": [
+            "iid"
+        ],
+        "Theoretical Aspects": [
+            "theoretical aspects"
+        ],
+        "Open Problems": [
+            "open problem"
+        ],
+        "Single Timescale": [
+            "single-timescale"
+        ],
+        "Scaling": [
+            "scaling"
+        ],
+        "Oracle Efficiency": [
+            "oracle-efficient"
+        ],
+        "Memory": [
+            "memory"
+        ],
+        "Classical Shadows": [
+            "classical shadows"
+        ],
+        "Advantage": [
+            "advantage"
+        ],
+        "Refinement": [
+            "refine"
+        ],
+        "Risk Sensitivity": [
+            "risk-sensitive"
+        ],
+        "Provable": [
+            "provable"
+        ],
+        "Adversarial": [
+            "adversarial"
+        ],
+        "Asymptotic": [
+            "asymptotic"
+        ],
+        "Causal Inference": [
+            "causal inference"
+        ],
+        "Observational Studies": [
+            "observational studies"
+        ],
+        "In-the-Wild": [
+            "in-the-wild"
+        ],
+        "Unsupervised Learning": [
+            "unsupervised"
+        ],
+        "Curriculum Learning": [
+            "curriculum learning"
+        ],
+        "Testable": [
+            "testable"
+        ],
+        "Heterogeneity": [
+            "heterogeneous"
+        ],
+        "Dynamic Systems": [
+            "dynamic"
+        ],
+        "Combinatorial Optimization": [
+            "combinatorial"
+        ],
+        "Ranking": [
+            "ranking"
+        ],
+        "Expressivity": [
+            "expressivity"
+        ],
+        "In-Context Learning": [
+            "in-context learning"
+        ],
+        "Multi-Task Learning": [
+            "multi-task"
+        ],
+        "Self-Supervised Learning": [
+            "self-"
+        ],
+        "Universality": [
+            "universal"
+        ],
+        "Less is More": [
+            "less is more"
+        ],
+        "Low-Rank": [
+            "low-rank"
+        ],
+        "Sensitivity": [
+            "sensitivity"
+        ],
+        "Invariant": [
+            "invariant"
+        ]
+    },
+    "B": {
+        "Reasoning": [
+            "reasoning"
+        ],
+        "Optimization": [
+            "optimization",
+            "optimisation",
+            "stochastic optimization"
+        ],
+        "Planning": [
+            "planning"
+        ],
+        "Estimation": [
+            "estimation",
+            "statistical estimation",
+            "parameter estimation",
+            "density estimation"
+        ],
+        "Learning": [
+            "learning"
+        ],
+        "Regression": [
+            "regression",
+            "linear regression",
+            "least squares"
+        ],
+        "Binary Classification": [
+            "binary classification"
+        ],
+        "Memorization": [
+            "memorization"
+        ],
+        "Reinforcement Learning": [
+            "reinforcement learning",
+            "Reinforcement Learning"
+        ],
+        "Classification": [
+            "classification",
+            "supervised classification"
+        ],
+        "Clustering": [
+            "clustering"
+        ],
+        "PAC Learning": [
+            "PAC learning"
+        ],
+        "Learning Theory": [
+            "learning theory"
+        ],
+        "Bandits": [
+            "bandits",
+            "contextual bandit"
+        ],
+        "Graphs": [
+            "graphs",
+            "graph analysis",
+            "graph alignment",
+            "graph theory"
+        ],
+        "Testing": [
+            "testing",
+            "hypothesis testing"
+        ],
+        "Calibration": [
+            "calibration"
+        ],
+        "Multiclass Classification": [
+            "multiclass classification",
+            "multi-class",
+            "multiclass learning"
+        ],
+        "Tensor Completion": [
+            "tensor completion"
+        ],
+        "Question Answering": [
+            "question answering"
+        ],
+        "Scientific Machine Learning": [
+            "scientific machine learning"
+        ],
+        "Variational Inference": [
+            "variational inference"
+        ],
+        "PAC-Bayes": [
+            "PAC-Bayes"
+        ],
+        "Dimensionality Reduction": [
+            "dimensionality reduction"
+        ],
+        "Community Detection": [
+            "community detection"
+        ],
+        "Statistical Inference": [
+            "statistical inference",
+            "predictive inference"
+        ],
+        "None": [
+            "none"
+        ],
+        "Markov Chain Monte Carlo": [
+            "Markov Chain Monte Carlo",
+            "MCMC",
+            "Monte Carlo"
+        ],
+        "Statistical Analysis": [
+            "statistical analysis"
+        ],
+        "Automated Research": [
+            "automated research"
+        ],
+        "Knowledge Accumulation": [
+            "knowledge accumulation"
+        ],
+        "Distributions": [
+            "distributions",
+            "learning probability distributions",
+            "distribution learning"
+        ],
+        "Adversarial": [
+            "adversarial"
+        ],
+        "Symmetry Discovery": [
+            "symmetry discovery"
+        ],
+        "Identification": [
+            "identification"
+        ],
+        "Policy Evaluation": [
+            "policy evaluation"
+        ],
+        "Quantum Learning": [
+            "quantum learning"
+        ],
+        "Causal Inference": [
+            "causal inference",
+            "average treatment effects"
+        ],
+        "List Learning": [
+            "list learning"
+        ],
+        "Empirical Risk Minimization": [
+            "empirical risk minimization"
+        ],
+        "Meta-Learning": [
+            "meta-learning"
+        ],
+        "Neural Architecture Search": [
+            "neural architecture search"
+        ],
+        "Network Inference": [
+            "network inference"
+        ],
+        "Prediction": [
+            "prediction"
+        ],
+        "Ranking": [
+            "ranking"
+        ],
+        "Recommendation": [
+            "recommendation",
+            "recommender systems"
+        ],
+        "Pricing": [
+            "pricing"
+        ],
+        "Structured Prediction": [
+            "structured prediction"
+        ],
+        "Game Theory": [
+            "game theory"
+        ],
+        "Fairness": [
+            "fairness"
+        ],
+        "Robustness": [
+            "robustness"
+        ],
+        "MARL": [
+            "MARL"
+        ],
+        "Online Algorithms": [
+            "online algorithms"
+        ],
+        "Hypothesis Selection": [
+            "hypothesis selection"
+        ],
+        "Control": [
+            "control"
+        ],
+        "Computation": [
+            "computation"
+        ],
+        "Decision Tree Learning": [
+            "decision tree learning"
+        ],
+        "Distributed Learning": [
+            "distributed learning"
+        ],
+        "Statistical Physics": [
+            "statistical physics"
+        ],
+        "Social Networks": [
+            "social networks"
+        ],
+        "Uncertainty Quantification": [
+            "uncertainty quantification"
+        ],
+        "Safety": [
+            "safety"
+        ]
+    },
+    "C": {
+        "Algorithms and Algorithm Design": [
+            "algorithms",
+            "algorithm",
+            "algorithm design",
+            "Algorithms"
+        ],
+        "Neural Networks": [
+            "neural networks",
+            "neural network",
+            "Deep Neural Networks",
+            "deep neural networks",
+            "shallow networks",
+            "ReLU Networks",
+            "ReLU Neural Networks"
+        ],
+        "Gradient Descent Methods": [
+            "Gradient Descent",
+            "gradient descent",
+            "SGD",
+            "GD",
+            "first-order methods",
+            "gradient-based learning algorithm",
+            "first-order algorithm",
+            "gradient methods",
+            "Langevin descent-ascent"
+        ],
+        "Statistical Query Framework": [
+            "statistical query",
+            "statistical query framework",
+            "queries"
+        ],
+        "Differential Privacy": [
+            "differential privacy",
+            "DP"
+        ],
+        "Optimization Algorithms": [
+            "accelerated",
+            "Newton Method",
+            "second-order methods"
+        ],
+        "Markov Processes": [
+            "Markov chain",
+            "Markov processes",
+            "Markovian Operators"
+        ],
+        "Message Passing": [
+            "Belief Propagation",
+            "message-passing algorithm",
+            "approximate message passing"
+        ],
+        "Randomized Algorithms": [
+            "randomized algorithm",
+            "randomized algorithms"
+        ],
+        "Information Theory": [
+            "information-theoretic",
+            "information-theoretic quantities",
+            "information-theoretic tools"
+        ],
+        "Dimension and Complexity": [
+            "dimension",
+            "VC dimension",
+            "combinatorial dimensions",
+            "computational complexity"
+        ],
+        "Estimation": [
+            "estimators",
+            "least-squares estimation",
+            "empirical Bayes",
+            "IPW Estimators",
+            "trimmed mean estimator"
+        ],
+        "Function Approximation": [
+            "function approximation",
+            "function approximations",
+            "parametric function"
+        ],
+        "Reinforcement Learning": [
+            "RL",
+            "MDPs",
+            "Markov decision processes",
+            "value function",
+            "dynamic programming"
+        ],
+        "Kernel Methods": [
+            "kernel methods",
+            "kernel method",
+            "kernel-based prediction"
+        ],
+        "Bounds and Rates": [
+            "lower bound",
+            "bounds",
+            "rates",
+            "minimax rate"
+        ],
+        "Loss Functions": [
+            "Loss function",
+            "loss functions",
+            "Fenchel\u2013Young losses",
+            "logistic loss"
+        ],
+        "Graph Algorithms": [
+            "geometric graphs",
+            "graph",
+            "spectral algorithm",
+            "spectral method",
+            "subgraph counting",
+            "hypergraph stochastic block model"
+        ],
+        "Probabilistic Models": [
+            "probabilistic model",
+            "mixture models",
+            "distribution"
+        ],
+        "None": [
+            "none",
+            "None"
+        ],
+        "Mathematical Analysis": [
+            "mathematical analysis"
+        ],
+        "Polynomial Methods": [
+            "polynomial",
+            "polynomial tests",
+            "low-degree polynomial"
+        ],
+        "Tensor Decompositions": [
+            "Kronecker products",
+            "tensor decomposition"
+        ],
+        "Stochastic Approximation": [
+            "stochastic approximation",
+            "SDE"
+        ],
+        "Wasserstein Distance": [
+            "Wasserstein distance"
+        ],
+        "Decision Trees": [
+            "decision tree",
+            "Bayesian trees"
+        ],
+        "UniXGrad": [
+            "UniXGrad"
+        ],
+        "Divergence": [
+            "divergence"
+        ],
+        "Langevin Algorithms": [
+            "Langevin algorithms",
+            "Hamiltonian Monte Carlo"
+        ],
+        "SDP": [
+            "SDP"
+        ],
+        "Empirical Risk Minimization": [
+            "ERM",
+            "Empirical Risk Minimization"
+        ],
+        "Lasso": [
+            "Lasso"
+        ],
+        "Representation Learning": [
+            "representation learning"
+        ],
+        "Metric Space": [
+            "metric space"
+        ],
+        "Quantile Risk": [
+            "quantile risk"
+        ],
+        "Bandit Algorithms": [
+            "bandit algorithms",
+            "contextual bandits"
+        ],
+        "GLMs": [
+            "GLMs"
+        ],
+        "Glauber Dynamics": [
+            "Glauber Dynamics",
+            "Glauber dynamics"
+        ],
+        "Computability": [
+            "computability"
+        ],
+        "Learning Rules": [
+            "Learning rules"
+        ],
+        "Quantum Computing": [
+            "quantum state",
+            "quantum",
+            "quantum measurements"
+        ],
+        "Linear Programming": [
+            "linear programming"
+        ],
+        "Fingerprinting Codes": [
+            "fingerprinting codes"
+        ],
+        "Elimination Algorithm": [
+            "elimination algorithm"
+        ],
+        "Perturbations": [
+            "perturbations"
+        ],
+        "Logistic Regression": [
+            "logistic regression"
+        ],
+        "Regularization": [
+            "regularization"
+        ],
+        "Nonlinear Control": [
+            "Nonlinear Control"
+        ],
+        "Oracle": [
+            "oracle"
+        ],
+        "Dynamics": [
+            "dynamics"
+        ],
+        "Self-attention": [
+            "Self-attention"
+        ],
+        "Gaussian Noise": [
+            "Gaussian Noise"
+        ],
+        "Iteratively Reweighted Least Squares": [
+            "iteratively reweighted least squares"
+        ]
+    },
+    "Template": {
+        "A1 Application": [
+            "A1 application of B1 to C1",
+            "A1 application of C1 to B1",
+            "A1 application of B1 with C1",
+            "A1 application of C1 in B1",
+            "A1 application of C1 to B1 improves efficiency",
+            "A1 application of B1 using C1"
+        ],
+        "Study of A1 in B1": [
+            "Study of A1 in B1 with C1",
+            "Study of A1 of C1 in B1",
+            "Study of A1 with B1 using C1",
+            "Study of A1 problem in B1 with C1",
+            "Investigating A1 in B1",
+            "Study of A1 for B1",
+            "Study of A1 in B1 using C1",
+            "Limits of A1 in B1",
+            "Investigating A1 in the context of B1.",
+            "Study of A1 for B1 under C1",
+            "Theoretical analysis of A1 in B1 using C1",
+            "Study of A1 in B1 using C1",
+            "Open problem of A1 in B1",
+            "Study the complexity of A1 in B1 using C1",
+            "Study the statistical hardness of estimating A1 in B1"
+        ],
+        "A1 for B1": [
+            "A1 method for B1",
+            "A1 for B1 using C1",
+            "A1 for B1 with C1",
+            "A1 C1 for B1",
+            "A1 for C1 in B1",
+            "A1 with C1 for B1",
+            "Improved A1 for B1",
+            "A1 for B1",
+            "New A1 for B1 of C1",
+            "Open problem of A1 for B1 with C1",
+            "A1 method for B1 using C1",
+            "We propose A1 for B1 with C1",
+            "A1 for B1 via C1",
+            "A1 for B1 with A2",
+            "The complexity of A1 for B1"
+        ],
+        "A1 in B1": [
+            "A1 in B1",
+            "A1 of C1 in B1",
+            "A1 C1 in B1",
+            "Investigating A1 in B1 with C1",
+            "A1 with very few samples in B1",
+            "Characterizing A1 for C1 in B1",
+            "On the A1 of C1 in B1",
+            "What is the complexity of A1 in C1 for B1?",
+            "Proposing A1 for C1 in B1",
+            "Achieving A1 in B1 with C1"
+        ],
+        "A1 with C1": [
+            "A1 with C1 and improved A2 for B1 with C2",
+            "A1 with C1 for B1 with unknown distribution",
+            "Simple A1 with C1"
+        ],
+        "A1 of B1": [
+            "A1 of B1 with C1",
+            "The A1 of B1",
+            "A1 of B1 via A2",
+            "A1 of B1 from C1",
+            "Settling A1 of B1"
+        ],
+        "Study of A1": [
+            "Study of A1 in C1",
+            "Study of A1 for B1 using C1"
+        ],
+        "C1 in B1": [
+            "Better bound of C1 in B1",
+            "Comparing C1 in B1 with A1",
+            "Choosing C1 with A1 for B1",
+            "Closing the gap in C1 in A1 B1",
+            "Improved bounds for C1 in B1 via A1"
+        ],
+        "B1 with A1": [
+            "Study of B1 with A1",
+            "Asymptotic characterization for B1 with A1",
+            "Efficient algorithms for B1 with A1",
+            "Estimation of B1 with A1 using C1",
+            "Open Problem: Tight Characterization of B1 with A1"
+        ],
+        "Learning in B1": [
+            "Efficient C1 for learning in B1",
+            "Learning and planning in B1"
+        ],
+        "C1 for B1": [
+            "Open problem of C1 for B1 with A1",
+            "C1 for B1 and B2",
+            "C1 for B1 with A1"
+        ],
+        "Convergence with A1 for B1": [
+            "Convergence of C1 with A1 for B1",
+            "Training dynamics of C1 with A1 for B1"
+        ],
+        "A1 and B1": [
+            "Faster A1 and B1 in C1",
+            "A1 and B1 with C1"
+        ],
+        "A1 via B1": [
+            "Algorithms for A1 via B1 in C1",
+            "Faster A1 via A2-based B1"
+        ],
+        "A1 approximations": [
+            "A theory of A1 approximations."
+        ],
+        "Active Learning with A1": [
+            "Active Learning with A1"
+        ],
+        "Beyond C1: Sharper C2 for A1 and B1": [
+            "Beyond C1: Sharper C2 for A1 and B1"
+        ],
+        "Theory and Applications of A1 in B1": [
+            "Theory and Applications of A1 in B1"
+        ],
+        "Preface of B1 in A1": [
+            "Preface of B1 in A1"
+        ],
+        "Convergence of C1 on B1": [
+            "Convergence of C1 on B1"
+        ],
+        "Detection of C1 in B1 with A1": [
+            "Detection of C1 in B1 with A1",
+            "Detecting A1 in B1 with C1"
+        ],
+        "Efficiently Learning C1 via A1": [
+            "Efficiently Learning C1 via A1"
+        ],
+        "Exact analysis of A1 for C1": [
+            "Exact analysis of A1 for C1"
+        ],
+        "A1 C1 method with applications in B1": [
+            "A1 C1 method with applications in B1"
+        ],
+        "Fast A1 B1 with C1": [
+            "Fast A1 B1 with C1"
+        ],
+        "Finding X in Y": [
+            "Finding X in Y"
+        ],
+        "A1 and A2 of C1 in B1": [
+            "A1 and A2 of C1 in B1"
+        ],
+        "Mathematical explanation of A1 in C1 for B1": [
+            "Mathematical explanation of A1 in C1 for B1"
+        ],
+        "Inherent limitations of C1 for characterizing A1 of distribution classes": [
+            "Inherent limitations of C1 for characterizing A1 of distribution classes"
+        ],
+        "Stable C2 for private B1": [
+            "Stable C2 for private B1"
+        ],
+        "Learning with A1": [
+            "Learning with A1: Improved C and lower bounds",
+            "Learning C1 with A1"
+        ],
+        "Study of A1 and A2 of B1 using C1": [
+            "Study of A1 and A2 of B1 using C1"
+        ],
+        "Lower Bounds for C1 under A1": [
+            "Lower Bounds for C1 under A1"
+        ],
+        "Optimization problem in B1 with A1 using C1": [
+            "Optimization problem in B1 with A1 using C1"
+        ],
+        "C1 with A1 rates for A2 B1": [
+            "C1 with A1 rates for A2 B1"
+        ],
+        "Mitigating A1 in B1 with C1": [
+            "Mitigating A1 in B1 with C1"
+        ],
+        "Formalizing A1 with B1 using C1": [
+            "Formalizing A1 with B1 using C1"
+        ],
+        "Generalization of A1 to B1 through C1": [
+            "Generalization of A1 to B1 through C1"
+        ],
+        "Role of A1 and B1 in C1": [
+            "Role of A1 and B1 in C1"
+        ],
+        "On A1 B2 for B1": [
+            "On A1 B2 for B1"
+        ],
+        "We study A1 B1 problem with C1": [
+            "We study A1 B1 problem with C1"
+        ],
+        "On A1 using C1": [
+            "On A1 using C1"
+        ],
+        "On the C1 of A1 B1": [
+            "On the C1 of A1 B1"
+        ],
+        "On the growth of C1 in A1: A C2 Perspective": [
+            "On the growth of C1 in A1: A C2 Perspective"
+        ],
+        "Performance of C1 with A1 in B1": [
+            "Performance of C1 with A1 in B1"
+        ],
+        "A1 C1 for B1 Extended Abstract": [
+            "A1 C1 for B1 Extended Abstract"
+        ],
+        "A1 of B1 in C1": [
+            "A1 of B1 in C1"
+        ],
+        "Open Problem: A1 of C1": [
+            "Open Problem: A1 of C1"
+        ],
+        "Open problem of A1 C1 for B1": [
+            "Open problem of A1 C1 for B1"
+        ],
+        "Open question on whether C1 can achieve A1 in B1": [
+            "Open question on whether C1 can achieve A1 in B1"
+        ],
+        "Open Problem: Optimal Rates for B1 under C1": [
+            "Open Problem: Optimal Rates for B1 under C1"
+        ],
+        "Open Problem: Tight Characterization of B1 with A1": [
+            "Open Problem: Tight Characterization of B1 with A1"
+        ],
+        "Open problem of C1 for B1 with A1": [
+            "Open problem of C1 for B1 with A1"
+        ],
+        "Prediction of B1 with C1 for model with A1": [
+            "Prediction of B1 with C1 for model with A1"
+        ],
+        "Provable A1 in C1 B1": [
+            "Provable A1 in C1 B1"
+        ],
+        "A1 is optimal for learning A2 in B1": [
+            "A1 is optimal for learning A2 in B1"
+        ],
+        "Reconstructing the C1 of A1 B1": [
+            "Reconstructing the C1 of A1 B1"
+        ],
+        "Refined A1 for B1 with C1": [
+            "Refined A1 for B1 with C1"
+        ],
+        "Some Constructions of A1, A2 and A3": [
+            "Some Constructions of A1, A2 and A3"
+        ],
+        "Spatial properties of C1 in B1 with A1": [
+            "Spatial properties of C1 in B1 with A1"
+        ],
+        "A1: An C1 achieving an oracle risk in B1": [
+            "A1: An C1 achieving an oracle risk in B1"
+        ],
+        "A1 A2 for B1 with C1": [
+            "A1 A2 for B1 with C1"
+        ],
+        "The Limits and Potentials of C1 for B1 with A1": [
+            "The Limits and Potentials of C1 for B1 with A1"
+        ],
+        "A1 Model for B1 to C1": [
+            "A1 Model for B1 to C1"
+        ],
+        "A1 of A2 in B with C": [
+            "A1 of A2 in B with C"
+        ],
+        "Analysis of B1 with A1 using C1": [
+            "Analysis of B1 with A1 using C1"
+        ],
+        "A1 approach to B1": [
+            "A1 approach to B1"
+        ],
+        "Elementary Observations About C1 of B1": [
+            "Elementary Observations About C1 of B1"
+        ],
+        "The power of A1 in C1": [
+            "The power of A1 in C1"
+        ],
+        "The role of A1 in B1 with C1": [
+            "The role of A1 in B1 with C1"
+        ],
+        "Reconstruction of B1 from C1 with A1": [
+            "Reconstruction of B1 from C1 with A1"
+        ],
+        "Addressing B1 with A1": [
+            "Addressing B1 with A1"
+        ],
+        "Separations between C1 and C2 for B1 with A1": [
+            "Separations between C1 and C2 for B1 with A1"
+        ],
+        "A1 mechanisms for B1": [
+            "A1 mechanisms for B1"
+        ],
+        "A1 B1 via C1": [
+            "A1 B1 via C1"
+        ]
+    }
+}

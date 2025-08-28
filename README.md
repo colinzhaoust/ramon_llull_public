@@ -10,7 +10,7 @@ This is the Github repo for Ramon Llull's Thinking Machine of Ideation
 
 In this project, we aim to create vibe research paper titles in a Ramon Llull's Thinking Machine way, i.e., change the "A" in the figure to "LLM". The generated paper titles and outlines can potentially serve as a baseline for [automated idea generation](https://arxiv.org/abs/2409.04109) and [AI research outcome prediction](https://arxiv.org/pdf/2506.00794).
 
-We would like to highlight a very relevant paper studying ideation from the human-AI collaboration perspective: [Scideator](https://www.semanticscholar.org/reader/1343dedea56bbf3ba48d0971aee177b5add61105), which explores facet-based combination of ideation.
+We would like to highlight a very relevant paper studying ideation from the human-AI collaboration perspective: [Scideator](https://www.semanticscholar.org/reader/1343dedea56bbf3ba48d0971aee177b5add61105), which also explores facet-based combination of ideation.
 
 ## The Holy Discs:
 At the current stage of the project, we identify three disks of concepts:
@@ -72,7 +72,7 @@ The idea of template extraction comes from previous knowledge graph literature, 
 
 ## Interested?
 Our target venue: 
-1. [LLM4Sci @ COLM 25](https://lm4sci.github.io/)
+1. [LM4Sci @ COLM 25](https://lm4sci.github.io/)
 2. [ACH 2026](https://sigbovik.org/)
 
 If you would like to contribute your concept words or if there is any suggestion, you are welcome to open an issue or send me an [email](mailto:xinranz3@andrew.cmu.edu), I will respond to that as soon as possible.

@@ -1,0 +1,1378 @@
+{
+    "A": {
+        "In-Context Learning": [
+            "in-context learning"
+        ],
+        "In-the-Wild": [
+            "in-the-wild"
+        ],
+        "Zero-Shot Learning": [
+            "zero-shot"
+        ],
+        "Alignment": [
+            "alignment",
+            "preference alignment",
+            "alignment-enhanced"
+        ],
+        "Benchmarking": [
+            "benchmarking",
+            "benchmark"
+        ],
+        "Few-Shot Learning": [
+            "few-shot"
+        ],
+        "Low-Resource": [
+            "low-resource",
+            "data scarce"
+        ],
+        "Hallucination": [
+            "hallucination",
+            "mitigating hallucinations"
+        ],
+        "Multilingual": [
+            "multilingual",
+            "multi-lingual"
+        ],
+        "Data Augmentation": [
+            "data augmentation"
+        ],
+        "Adaptive": [
+            "adaptive"
+        ],
+        "Automated": [
+            "automated",
+            "automatic",
+            "autonomous"
+        ],
+        "Parameter-Efficient": [
+            "parameter-efficient"
+        ],
+        "Multi-Hop Reasoning": [
+            "multi-hop"
+        ],
+        "Multimodal": [
+            "multimodal",
+            "multi-modal",
+            "cross-modal"
+        ],
+        "Memorization": [
+            "memorization",
+            "model memory",
+            "memory"
+        ],
+        "Multi-Task Learning": [
+            "multi-task",
+            "multi-task learning"
+        ],
+        "Compositionality": [
+            "compositionality"
+        ],
+        "Unified": [
+            "unified",
+            "universal"
+        ],
+        "Synthetic Data": [
+            "synthetic data"
+        ],
+        "Fine-Grained": [
+            "fine-grained",
+            "fine-grained supervision",
+            "granularity",
+            "multi-granularity"
+        ],
+        "Self-Refine": [
+            "self-refine"
+        ],
+        "Adversarial": [
+            "adversarial",
+            "adversarial robustness"
+        ],
+        "Bias": [
+            "bias",
+            "social bias"
+        ],
+        "Evaluation": [
+            "evaluation"
+        ],
+        "Quantization": [
+            "quantization"
+        ],
+        "Jailbreak": [
+            "jailbreak"
+        ],
+        "Less is More": [
+            "less is more"
+        ],
+        "Modular": [
+            "modular",
+            "modularity"
+        ],
+        "Semantic Change": [
+            "semantic change",
+            "semantic"
+        ],
+        "Survey": [
+            "survey"
+        ],
+        "Temporal": [
+            "temporal"
+        ],
+        "Hierarchical": [
+            "hierarchical"
+        ],
+        "Interactive": [
+            "interactive"
+        ],
+        "Robustness": [
+            "robustness"
+        ],
+        "Generalization": [
+            "generalization",
+            "domain generalization",
+            "generalizable"
+        ],
+        "Knowledge Graph": [
+            "knowledge graph",
+            "knowledge base"
+        ],
+        "Self-Evolve": [
+            "self-evolve"
+        ],
+        "Efficiency": [
+            "efficiency",
+            "efficient"
+        ],
+        "Ensemble": [
+            "ensemble"
+        ],
+        "Calibration": [
+            "calibration"
+        ],
+        "Cross-Lingual": [
+            "cross-lingual",
+            "cross-lingual transfer"
+        ],
+        "Long-Tail": [
+            "long-tail"
+        ],
+        "Multi-Objective": [
+            "multi-objective"
+        ],
+        "Synergy": [
+            "synergy"
+        ],
+        "Counterfactual": [
+            "counterfactual"
+        ],
+        "Causality": [
+            "causality",
+            "causal",
+            "causal reasoning"
+        ],
+        "Reasoning Chains": [
+            "reasoning chains"
+        ],
+        "Weak Link": [
+            "weak link"
+        ],
+        "Grounded": [
+            "grounding",
+            "grounded",
+            "grounded generation"
+        ],
+        "Factual Recall": [
+            "factual recall"
+        ],
+        "Subjective": [
+            "subjective"
+        ],
+        "Coreference": [
+            "coreference"
+        ],
+        "Consistency": [
+            "consistency",
+            "inconsistency"
+        ],
+        "Meta-Learning": [
+            "meta-learning"
+        ],
+        "RAG": [
+            "retrieval augmentation",
+            "retrieval-augmented generation"
+        ],
+        "Simultaneous": [
+            "simultaneous"
+        ],
+        "Curriculum Learning": [
+            "curriculum learning"
+        ],
+        "Distance Metric Learning": [
+            "distance metric learning"
+        ],
+        "Consolidation": [
+            "consolidation"
+        ],
+        "Sentiment Analysis": [
+            "sentiment",
+            "sentiment analysis"
+        ],
+        "Paraphrasing": [
+            "paraphrasing"
+        ],
+        "Adaptation": [
+            "adaptation",
+            "domain adaptation"
+        ],
+        "In-Domain": [
+            "in-domain"
+        ],
+        "Out-Domain": [
+            "out-domain",
+            "out-of-KB"
+        ],
+        "Bilingual": [
+            "bilingual"
+        ],
+        "Topological": [
+            "topological"
+        ],
+        "Interpolation": [
+            "interpolation"
+        ],
+        "Extrapolation": [
+            "extrapolation"
+        ],
+        "Multi-Label": [
+            "multi-label"
+        ],
+        "Knowledge Distillation": [
+            "knowledge distillation"
+        ],
+        "Asymmetric": [
+            "asymmetric"
+        ],
+        "Self-Explain": [
+            "self-explain",
+            "self-explanation"
+        ],
+        "Rationalization": [
+            "rationalization"
+        ],
+        "Human Feedback": [
+            "human feedback"
+        ],
+        "Tool-Augmented": [
+            "tool-augmented"
+        ],
+        "Small Models": [
+            "small models"
+        ],
+        "Spurious Correlation": [
+            "spurious correlation"
+        ],
+        "Language-Guided": [
+            "language-guided"
+        ],
+        "Control": [
+            "control",
+            "controllable"
+        ],
+        "Instruction Tuning": [
+            "instruction tuning",
+            "instruction-following"
+        ],
+        "Explanation": [
+            "explanation"
+        ],
+        "Logical Reasoning": [
+            "logical reasoning"
+        ],
+        "Nuanced": [
+            "nuanced"
+        ],
+        "Backdoor": [
+            "backdoor",
+            "backdoor attacks"
+        ],
+        "Frequency Space": [
+            "frequency space"
+        ],
+        "Active Learning": [
+            "active learning"
+        ],
+        "Low-Memory": [
+            "low-memory"
+        ],
+        "Named Entity Translation": [
+            "named entity translation"
+        ],
+        "Order Sensitivity": [
+            "order sensitivity",
+            "order-agnostic"
+        ],
+        "Agent Tuning": [
+            "agent tuning"
+        ],
+        "Self-Prefix": [
+            "self-"
+        ],
+        "Human Preferences": [
+            "human preferences"
+        ],
+        "Representation Engineering": [
+            "representation engineering"
+        ],
+        "Low-Latency": [
+            "low-latency"
+        ],
+        "Continual Learning": [
+            "continual learning",
+            "catastrophic forgetting"
+        ],
+        "Entropy": [
+            "entropy"
+        ],
+        "Label-Efficient": [
+            "label-efficient"
+        ],
+        "Noise Filtering": [
+            "noise filtering"
+        ],
+        "Information-Theoretic": [
+            "information-theoretic"
+        ],
+        "Iterative": [
+            "iterative"
+        ],
+        "Knowledge Synthesis": [
+            "knowledge synthesis"
+        ],
+        "Biomedical": [
+            "biomedical"
+        ],
+        "Multi-Source": [
+            "multi-source"
+        ],
+        "Lexical Replacements": [
+            "lexical replacements"
+        ],
+        "Interpretable": [
+            "interpretable"
+        ],
+        "Long Context": [
+            "long context",
+            "long-text"
+        ],
+        "Self-Attention": [
+            "self-attention"
+        ],
+        "Stereotypes": [
+            "stereotypes"
+        ],
+        "Understanding": [
+            "understanding"
+        ],
+        "Emergent Abilities": [
+            "emergent abilities"
+        ],
+        "Linguistic Knowledge": [
+            "linguistic knowledge"
+        ],
+        "Typicality": [
+            "typicality"
+        ],
+        "Statistical": [
+            "statistical"
+        ],
+        "Preference Learning": [
+            "preference learning"
+        ],
+        "Multi-Stage": [
+            "multi-stage"
+        ],
+        "Faithfulness": [
+            "faithfulness"
+        ],
+        "Argument-Aware": [
+            "argument-aware",
+            "argumentative"
+        ],
+        "Attack": [
+            "attack",
+            "defense"
+        ],
+        "Multi-Dimensional": [
+            "multi-dimensional"
+        ],
+        "Contrastive Learning": [
+            "contrastive learning"
+        ],
+        "Attribution": [
+            "attribution"
+        ],
+        "Self-Planning": [
+            "self-planning"
+        ],
+        "Structural Representation": [
+            "structural representation"
+        ],
+        "Speculative Sampling": [
+            "speculative sampling"
+        ],
+        "Batched": [
+            "batched"
+        ],
+        "Simplicity": [
+            "simplicity"
+        ],
+        "Knowledge-Intensive": [
+            "knowledge-intensive"
+        ],
+        "Pedagogically Informed": [
+            "pedagogically informed"
+        ],
+        "Unbalanced Data": [
+            "unbalanced data"
+        ],
+        "Versatility": [
+            "versatility"
+        ],
+        "Speciality": [
+            "speciality"
+        ],
+        "Uncertainty": [
+            "uncertainty"
+        ],
+        "Commonsense Reasoning": [
+            "commonsense reasoning"
+        ],
+        "Coaching": [
+            "coaching"
+        ],
+        "Model-Agnostic": [
+            "model-agnostic"
+        ],
+        "Intention": [
+            "intention"
+        ],
+        "Domain-Specific": [
+            "domain-specific"
+        ],
+        "Multi-Event": [
+            "multi-event"
+        ],
+        "Reference Free": [
+            "reference free"
+        ]
+    },
+    "B": {
+        "Reasoning": [
+            "reasoning",
+            "commonsense reasoning",
+            "arithmetic reasoning",
+            "inference"
+        ],
+        "Argument Mining": [
+            "argument mining",
+            "debate evaluation"
+        ],
+        "Safety & Security": [
+            "safety",
+            "satety",
+            "security",
+            "harmlessness"
+        ],
+        "Automated Research": [
+            "automated research",
+            "scientific writing assistance"
+        ],
+        "RAG": [
+            "RAG"
+        ],
+        "Question Answering": [
+            "question answering",
+            "question-answering",
+            "QA"
+        ],
+        "Machine Translation": [
+            "machine translation",
+            "speech-to-speech translation"
+        ],
+        "NLI": [
+            "NLI",
+            "natural language inference"
+        ],
+        "Evaluation & Measurement": [
+            "evaluation",
+            "measurement",
+            "NLG evaluation",
+            "text evaluation",
+            "readability assessment",
+            "bias measurement",
+            "reliability",
+            "benchmarking"
+        ],
+        "Fine-tuning": [
+            "fine-tuning",
+            "instruction finetuning"
+        ],
+        "Planning & Execution": [
+            "planning",
+            "execution"
+        ],
+        "Relation Extraction": [
+            "relation extraction",
+            "relation triplet extraction"
+        ],
+        "Language Modeling": [
+            "language modeling",
+            "causal language modeling"
+        ],
+        "Summarization": [
+            "summarization",
+            "abstractive summarization",
+            "lay summarisation",
+            "clinical text summarization",
+            "dialogue summarization",
+            "multi-document summarization"
+        ],
+        "Fact-Checking": [
+            "fact-checking",
+            "fact checking"
+        ],
+        "Information Retrieval": [
+            "information retrieval",
+            "dense retrieval",
+            "legal case retrieval",
+            "image-text retrieval"
+        ],
+        "Long-Form Question Answering": [
+            "long-form question answering"
+        ],
+        "Image Classification": [
+            "image classification"
+        ],
+        "NLP": [
+            "NLP",
+            "natural language processing"
+        ],
+        "Text Generation": [
+            "text generation",
+            "AI-generated text detection",
+            "data-to-text generation",
+            "Text-to-Image Generation",
+            "code generation"
+        ],
+        "Dialogue Systems": [
+            "dialogue",
+            "dialogue systems",
+            "dialogue summarization",
+            "multimodal conversation"
+        ],
+        "Language Models": [
+            "language models",
+            "large language models",
+            "LLMs training",
+            "hosting large language models"
+        ],
+        "News Analysis": [
+            "news analysis"
+        ],
+        "Document Understanding": [
+            "document understanding"
+        ],
+        "Knowledge Acquisition": [
+            "knowledge acquisition"
+        ],
+        "Narratives": [
+            "narratives"
+        ],
+        "Downstream Tasks": [
+            "downstream tasks"
+        ],
+        "Textual Models": [
+            "textual models"
+        ],
+        "Factual Consistency": [
+            "factual consistency"
+        ],
+        "Sentiment Analysis": [
+            "sentiment analysis",
+            "sentiment classification",
+            "emotion analysis",
+            "emotion recognition"
+        ],
+        "Computational Social Science": [
+            "computational social science",
+            "social perception"
+        ],
+        "Speech-to-Text Translation": [
+            "speech-to-text translation"
+        ],
+        "Lexical Semantic Change Detection": [
+            "Lexical Semantic Change Detection",
+            "semantic change detection"
+        ],
+        "Meta-Review Generation": [
+            "meta-review generation"
+        ],
+        "Authorship": [
+            "authorship"
+        ],
+        "Web Scraping": [
+            "web scraping"
+        ],
+        "Morality": [
+            "morality"
+        ],
+        "Fake News Detection": [
+            "fake news detection"
+        ],
+        "Political Bias Detection": [
+            "political bias detection"
+        ],
+        "Media Profiling": [
+            "media profiling"
+        ],
+        "Text Ranking": [
+            "text ranking"
+        ],
+        "Euphemism Detection": [
+            "euphemism detection",
+            "euphemism identification"
+        ],
+        "Knowledge Graph Completion": [
+            "knowledge graph completion"
+        ],
+        "Text Classification": [
+            "text classification",
+            "natural language classification"
+        ],
+        "Historical Text": [
+            "historical text"
+        ],
+        "Low-Resource Language": [
+            "low-resource language"
+        ],
+        "NLU": [
+            "NLU",
+            "language understanding"
+        ],
+        "Legal Assessment": [
+            "legal assessment",
+            "contract analysis",
+            "privacy policies"
+        ],
+        "Audio-Language Models": [
+            "audio-language models"
+        ],
+        "API Usage": [
+            "API usage"
+        ],
+        "Data Annotation & Curation": [
+            "data annotation",
+            "data curation",
+            "automated data generation"
+        ],
+        "Open-QA": [
+            "Open-QA",
+            "Open-Domain QA",
+            "open-domain QA",
+            "open-domain tasks"
+        ],
+        "Training": [
+            "training"
+        ],
+        "Graph Understanding": [
+            "graph understanding"
+        ],
+        "OCR": [
+            "OCR"
+        ],
+        "Preference Learning": [
+            "preference learning",
+            "user preference",
+            "user behavior prediction"
+        ],
+        "Agent & Tooling": [
+            "agent",
+            "tool utilization",
+            "LLM Agents"
+        ],
+        "Recommendations": [
+            "recommendations"
+        ],
+        "Helpfulness & Interestingness": [
+            "helpfulness",
+            "interestingness"
+        ],
+        "Truthfulness": [
+            "truthfulness"
+        ],
+        "Vision-Language": [
+            "vision-language",
+            "visual grounding",
+            "multimodal tasks"
+        ],
+        "Japanese Input Method Editors": [
+            "Japanese Input Method Editors"
+        ],
+        "Grammatical Error Correction": [
+            "grammatical error correction"
+        ],
+        "Sign Language": [
+            "sign language"
+        ],
+        "Pronunciation Assessment": [
+            "pronunciation assessment"
+        ],
+        "Zero-Shot Generalization": [
+            "zero-shot generalization"
+        ],
+        "Reading Comprehension": [
+            "reading comprehension"
+        ],
+        "Response Generation": [
+            "response generation"
+        ],
+        "Biomedical Discovery": [
+            "biomedical discovery"
+        ],
+        "Oncology": [
+            "oncology",
+            "healthcare",
+            "medicine"
+        ],
+        "Semantic Textual Similarity": [
+            "semantic textual similarity"
+        ],
+        "Diacritization": [
+            "diacritization"
+        ],
+        "Knowledge-Intensive Tasks": [
+            "knowledge-intensive tasks"
+        ],
+        "Pun Generation & Humor": [
+            "pun generation",
+            "humor"
+        ],
+        "Event Linking & Forecasting": [
+            "event linking",
+            "event forecasting"
+        ],
+        "Knowledge Base": [
+            "knowledge base",
+            "knowledge update"
+        ],
+        "Financial Analysis": [
+            "financial analysis",
+            "finance"
+        ],
+        "Text Embedding": [
+            "text embedding"
+        ],
+        "Offensive Language Detection": [
+            "offensive language detection"
+        ],
+        "Mixed Reality": [
+            "mixed reality"
+        ],
+        "HCI": [
+            "HCI"
+        ],
+        "Generative AI": [
+            "generative AI"
+        ],
+        "Text Simplification": [
+            "text simplification",
+            "ESL education"
+        ],
+        "Text-to-SQL": [
+            "text-to-SQL"
+        ],
+        "Information Extraction": [
+            "Information Extraction"
+        ],
+        "Computational Psychology": [
+            "computational psychology"
+        ],
+        "FrameNet": [
+            "FrameNet"
+        ],
+        "Semantic Role Labeling": [
+            "semantic role labeling"
+        ],
+        "Watermarking": [
+            "watermarking"
+        ],
+        "Game Design": [
+            "game design"
+        ],
+        "Gender Studies": [
+            "gender studies"
+        ]
+    },
+    "C": {
+        "Large Language Models": [
+            "LLMs",
+            "Large Language Models",
+            "Large Multimodal Models",
+            "Causal Language Models",
+            "Prefix Language Models",
+            "Decoder-Only Language Models",
+            "Encoder-Only Language Models",
+            "decoder-only large language models",
+            "pre-trained language models",
+            "multilingual LMs"
+        ],
+        "Transformers & Architectures": [
+            "Transformers",
+            "Self-attention",
+            "transformer-based neural networks",
+            "transformer architectures",
+            "architectures",
+            "Attention"
+        ],
+        "Reinforcement Learning": [
+            "RLHF",
+            "reinforcement learning",
+            "PPO",
+            "Reinforcement Learning",
+            "Reinforcement Learning from Human Feedback",
+            "reward model",
+            "Direct Preference Optimization (DPO)",
+            "Direct Preference Optimization"
+        ],
+        "Fine-tuning Methods": [
+            "LoRA",
+            "QLoRA",
+            "prompt-tuning"
+        ],
+        "Language Models": [
+            "GPT-3.5",
+            "GPT-4",
+            "LLaMA",
+            "Falcon",
+            "Llama-v2",
+            "Llama2",
+            "Flan-T5",
+            "ByT5",
+            "BART",
+            "RoBERTa"
+        ],
+        "Chain-of-Thought": [
+            "Chain-of-Thought",
+            "chain-of-thought"
+        ],
+        "NLP Tasks": [
+            "NLP",
+            "Machine Translation",
+            "NMT",
+            "abstractive summarisation",
+            "Textual Entailment",
+            "response generation models"
+        ],
+        "Embeddings": [
+            "Embedder",
+            "text embedding"
+        ],
+        "Generative Models": [
+            "generative model",
+            "autoregressive generative models",
+            "non-autoregressive generation"
+        ],
+        "Graph Learning": [
+            "graph learning",
+            "graph attention network",
+            "graph models",
+            "AMR graphs",
+            "AMR"
+        ],
+        "Contrastive Learning": [
+            "contrastive learning",
+            "Siamese Networks"
+        ],
+        "Vision-Language Models": [
+            "CLIP",
+            "Vision-Language Models",
+            "vision and language models",
+            "text-to-image generation"
+        ],
+        "Knowledge Transfer": [
+            "knowledge distillation",
+            "teacher-student training"
+        ],
+        "Optimization Algorithms": [
+            "AdamW",
+            "stochastic gradient descent"
+        ],
+        "Causal Inference": [
+            "causal mediation analysis",
+            "causal masking"
+        ],
+        "None": [
+            "none",
+            "None"
+        ],
+        "Pre-training Strategies": [
+            "Pre-training Strategies"
+        ],
+        "Explainability": [
+            "explainable assessment"
+        ],
+        "Deep Learning": [
+            "Deep Neural Networks"
+        ],
+        "Frameworks": [
+            "framework"
+        ],
+        "Word-in-Context": [
+            "Word-in-Context"
+        ],
+        "Computational Social Science": [
+            "Computational Social Science"
+        ],
+        "Psychology": [
+            "Psychology"
+        ],
+        "Rule-Transformer": [
+            "Rule-Transformer"
+        ],
+        "neural-driven symbolic reasoning": [
+            "neural-driven symbolic reasoning"
+        ],
+        "cross-encoder": [
+            "cross-encoder"
+        ],
+        "dual-encoder": [
+            "dual-encoder"
+        ],
+        "floating-point quantization": [
+            "floating-point quantization"
+        ],
+        "SVM": [
+            "SVM"
+        ],
+        "KNN": [
+            "KNN"
+        ],
+        "semantic alignment": [
+            "semantic alignment"
+        ],
+        "representation editing": [
+            "representation editing"
+        ],
+        "LLM-as-Judge": [
+            "LLM-as-Judge"
+        ],
+        "discrete sequence modeling": [
+            "discrete sequence modeling"
+        ],
+        "corpus statistic analysis": [
+            "corpus statistic analysis"
+        ],
+        "gradient-based attack algorithms": [
+            "gradient-based attack algorithms"
+        ],
+        "Domain-specific Language": [
+            "Domain-specific Language"
+        ],
+        "data clustering": [
+            "data clustering"
+        ],
+        "Bayesian variational inference": [
+            "Bayesian variational inference"
+        ],
+        "meta-learning": [
+            "meta-learning"
+        ],
+        "prompt mechanism": [
+            "prompt mechanism"
+        ],
+        "VAE": [
+            "VAE"
+        ],
+        "commonsense": [
+            "commonsense"
+        ],
+        "Naive Bayes": [
+            "Naive Bayes"
+        ]
+    },
+    "Template": {
+        "A1 for B1": [
+            "A1 for B1",
+            "A1 for B1 beyond pure semantics"
+        ],
+        "A1 for B1 using C1": [
+            "A1 for B1 using C1",
+            "An empirical study on A1 for B1 using C1"
+        ],
+        "A1 for B1 with C1": [
+            "A1 with C1 for B1",
+            "A1 for B1 with C1",
+            "A1 using C2 for B1 with C1"
+        ],
+        "A1 application of B1": [
+            "A1 application of B1 to C1",
+            "A1 application of B1 using C1",
+            "A1 application of B1 with C1",
+            "A1 application of B1 on A2",
+            "A1 application of B1 to evaluate C1",
+            "A1 application of B1 to improve C1",
+            "A1 application of B1 using C2",
+            "A1 application of B1 to optimize C1",
+            "A1 application of B1 with A2"
+        ],
+        "A1 approach to B1": [
+            "A1 approach to B1",
+            "A1 approach to B1 using C1",
+            "A1 approach for B1",
+            "A1 Approach for B1 of B2",
+            "A1 approach to B1 based on C1 and C2"
+        ],
+        "A1 framework for B1": [
+            "A1 framework for B1",
+            "An A1 framework for B1",
+            "A1 Framework for B1",
+            "A1 framework for B1 using C1",
+            "A1 framework for B1 and B2",
+            "A1 framework for B1 with C1",
+            "A1 framework towards B1"
+        ],
+        "A1 in B1": [
+            "A1 in B1 with C1",
+            "A1 in B1 with A2",
+            "A1 in C1 generated texts in B1",
+            "Insights from A1 in B1",
+            "A1 in B1 using C1",
+            "Analysis of A1 in B1",
+            "Demonstrating A1 in B1",
+            "Advancing A1 in B1 through A2",
+            "Advancing A1 in B1 via C1",
+            "Benchmarking and Improving A1 in B1 with C1"
+        ],
+        "A1 dataset for B1": [
+            "A1 dataset of B1",
+            "A1 dataset for B1 using C1",
+            "A1 dataset for B1 in C1"
+        ],
+        "A1 of C1 for B1": [
+            "A1 of C1 for B1",
+            "A1 of C1 for B1 with A2"
+        ],
+        "Addressing B1 via A1": [
+            "Addressing B1 problem via A1 and A2"
+        ],
+        "Introducing B1 dataset": [
+            "Introducing B1 dataset for A1 task.",
+            "Introducing B1 dataset for evaluating C1 with A1"
+        ],
+        "Benchmarking C1 for B1 with A1": [
+            "Benchmarking C1 for B1 with A1",
+            "Benchmarking C1 on B1 with A1: A Dataset and a Novel System"
+        ],
+        "Benchmarking B1 with C1": [
+            "Benchmarking B1 with C1",
+            "Analyzing B1 with C1: A Benchmark towards A1"
+        ],
+        "A1 perspective on B1": [
+            "A1 perspective for characterizing and detecting B1 with C1",
+            "A1 Perspective on C1 for B1",
+            "A1 perspective for A2 on B1"
+        ],
+        "Aligning C1 via A1": [
+            "Aligning C1 by A1 B2",
+            "Aligning C1 for A1 B1",
+            "Aligning C1 via A1",
+            "Aligning C1 with A1 through A2"
+        ],
+        "Analyzing C1 in B1": [
+            "Analyzing C1 behavior in B1: Unveiling A1 trends",
+            "An Empirical Analysis on C1 in B1",
+            "An empirical study on the characteristics of B1 upon C1 variation for A1"
+        ],
+        "A1 application of C1": [
+            "A1 application of C1 to B1"
+        ],
+        "Benchmarking A1 in C1": [
+            "Benchmarking A1 in C1 as B1",
+            "Benchmarking A1 for C1 in B1: A Different Perspective on Model A1"
+        ],
+        "Improving B1 via A1": [
+            "Improving B1 with A1-based C2",
+            "Enhancing B1 by Incorporating A1"
+        ],
+        "Acquiring C1 from B1 via A1": [
+            "Acquiring C1 from B1 by A1"
+        ],
+        "A1 approach to C1": [
+            "A1 approach to C1 for B1"
+        ],
+        "Comparing C1 and C2 in B1 with A1": [
+            "Comparing C1 and C2 in B1 with A1"
+        ],
+        "A1 framework for C1": [
+            "A1 framework for C1 to achieve A2 in B1"
+        ],
+        "A1 approach for A2 in B1": [
+            "A1 approach for A2 in B1"
+        ],
+        "A1 Dataset for Evaluating B1 in C1": [
+            "A1 Dataset for Evaluating B1 in C1"
+        ],
+        "A1 evaluation of A2 for C1": [
+            "A1 evaluation of A2 for C1"
+        ],
+        "A1 versus A2 for C1": [
+            "A1 versus A2 for C1"
+        ],
+        "A1 study of C1 in B1": [
+            "A1 study of C1 in B1"
+        ],
+        "Searching for the Correlation between A1 and Training Data of C1 in B1": [
+            "Searching for the Correlation between A1 and Training Data of C1 in B1"
+        ],
+        "A deep dive into the trade-offs of A1 B1 Techniques": [
+            "A deep dive into the trade-offs of A1 B1 Techniques"
+        ],
+        "Locating and Detecting C1 in B1 with A1": [
+            "Locating and Detecting C1 in B1 with A1",
+            "Understanding and Locating B1 with A1"
+        ],
+        "A1 about B1 with C1": [
+            "A1 about B1 with C1"
+        ],
+        "A1 Analysis of C1 Trained on B1": [
+            "A1 Analysis of C1 Trained on B1"
+        ],
+        "A1 for evaluating A2 with B1 applications": [
+            "A1 for evaluating A2 with B1 applications"
+        ],
+        "A1 application of A2 on B1": [
+            "A1 application of A2 on B1"
+        ],
+        "A1 on B1 for B2": [
+            "A1 on B1 for B2"
+        ],
+        "A1 on predicting A2 and A3 of B1": [
+            "A1 on predicting A2 and A3 of B1"
+        ],
+        "A1 approach with A2 and A3 for B1": [
+            "A1 approach with A2 and A3 for B1"
+        ],
+        "A1 model for B1 towards A2 and A3": [
+            "A1 model for B1 towards A2 and A3"
+        ],
+        "A1 approach for B1 models": [
+            "A1 approach for B1 models"
+        ],
+        "A1 for B1 via C1": [
+            "A1 for B1 via C1"
+        ],
+        "A1 with A2 for B1": [
+            "A1 with A2 for B1"
+        ],
+        "A1 A2 of C2 in B1 of C1": [
+            "A1 A2 of C2 in B1 of C1"
+        ],
+        "A1 corpus for B1 with C1": [
+            "A1 corpus for B1 with C1"
+        ],
+        "Unlocking A1 of C1 with A2": [
+            "Unlocking A1 of C1 with A2"
+        ],
+        "A1 corpora for training and benchmarking C1 in B1": [
+            "A1 corpora for training and benchmarking C1 in B1"
+        ],
+        "A1 of retrievers with C1 in B1 via A2 labeling": [
+            "A1 of retrievers with C1 in B1 via A2 labeling"
+        ],
+        "Towards A1 learning in C1": [
+            "Towards A1 learning in C1"
+        ],
+        "A1 for improving A2 in B1 with A4": [
+            "A1 for improving A2 in B1 with A4"
+        ],
+        "Using A1 in B1 to document the effects of C1": [
+            "Using A1 in B1 to document the effects of C1"
+        ],
+        "A1 Benchmark for B1 Evaluation": [
+            "A1 Benchmark for B1 Evaluation"
+        ],
+        "A1 optimization with A2 learning rate": [
+            "A1 optimization with A2 learning rate"
+        ],
+        "Addressing A1 of in-context demonstration examples in C1": [
+            "Addressing A1 of in-context demonstration examples in C1"
+        ],
+        "Advancing C1 to capture A1 in B1": [
+            "Advancing C1 to capture A1 in B1"
+        ],
+        "A1 via C2 game to improve B1 of C1": [
+            "A1 via C2 game to improve B1 of C1"
+        ],
+        "A1 and A2 Training for Open-Source Language Agents": [
+            "A1 and A2 Training for Open-Source Language Agents"
+        ],
+        "Designing Data and Methods of A1 for C1 in B1": [
+            "Designing Data and Methods of A1 for C1 in B1"
+        ],
+        "A1 via C1 for B1": [
+            "A1 via C1 for B1"
+        ],
+        "A1: B2 of C1": [
+            "A1: B2 of C1"
+        ],
+        "Study of A1 B1 of C1": [
+            "Study of A1 B1 of C1"
+        ],
+        "An A1 application of C1 and C2 to B1": [
+            "An A1 application of C1 and C2 to B1"
+        ],
+        "An Empirical Study of A1 in C1 for B1": [
+            "An Empirical Study of A1 in C1 for B1"
+        ],
+        "A1 method for B1 in C1": [
+            "A1 method for B1 in C1"
+        ],
+        "A1 for B1 of C1": [
+            "A1 for B1 of C1"
+        ],
+        "A1 Approach to Analyze B1 Tasks": [
+            "A1 Approach to Analyze B1 Tasks"
+        ],
+        "An Investigation of A1 as a Unified Lens to Explain A2 of B1 of C1": [
+            "An Investigation of A1 as a Unified Lens to Explain A2 of B1 of C1"
+        ],
+        "A1 Model for B1": [
+            "A1 Model for B1"
+        ],
+        "An C1-based A1 and A2 Framework for B1": [
+            "An C1-based A1 and A2 Framework for B1"
+        ],
+        "An A1 System for Scoring B1 of B2": [
+            "An A1 System for Scoring B1 of B2"
+        ],
+        "Analysing A1 of C1 on B1": [
+            "Analysing A1 of C1 on B1"
+        ],
+        "B1 reflects A1 in C1": [
+            "B1 reflects A1 in C1"
+        ],
+        "Assessing C1 in B1 with A1": [
+            "Assessing C1 in B1 with A1"
+        ],
+        "Are C1 robust to A1 in B1?": [
+            "Are C1 robust to A1 in B1?"
+        ],
+        "Are A1 in C1 just A2?": [
+            "Are A1 in C1 just A2?"
+        ],
+        "Are C confusing B": [
+            "Are C confusing B"
+        ],
+        "Benchmarking A1 with B1 using C1": [
+            "Benchmarking A1 with B1 using C1"
+        ],
+        "B1 via A1 towards a B2 C1": [
+            "B1 via A1 towards a B2 C1"
+        ],
+        "Are A1 from C1 faithful?": [
+            "Are A1 from C1 faithful?"
+        ],
+        "A1 on B1 using A2": [
+            "A1 on B1 using A2"
+        ],
+        "A1 attacks against C1 for B1": [
+            "A1 attacks against C1 for B1"
+        ],
+        "How C1 answer B1 with/without A1": [
+            "How C1 answer B1 with/without A1"
+        ],
+        "A1 of C1 in B1": [
+            "A1 of C1 in B1"
+        ],
+        "Measuring A1 in C1 by B1": [
+            "Measuring A1 in C1 by B1"
+        ],
+        "Assessing B1 with A1 using C1": [
+            "Assessing B1 with A1 using C1"
+        ],
+        "How Hard is A1 of B1?": [
+            "How Hard is A1 of B1?"
+        ],
+        "B1 with C1": [
+            "B1 with C1"
+        ],
+        "Automated A1 and analysis of B1 using a real-world corpus": [
+            "Automated A1 and analysis of B1 using a real-world corpus"
+        ],
+        "Automatic B1 using C1": [
+            "Automatic B1 using C1"
+        ],
+        "A1 engineering of long prompts for B1 using C1": [
+            "A1 engineering of long prompts for B1 using C1"
+        ],
+        "A1 workflow for B1 using C1": [
+            "A1 workflow for B1 using C1"
+        ],
+        "A1 C1 for B1": [
+            "A1 C1 for B1"
+        ],
+        "A1 system for B1 using C1": [
+            "A1 system for B1 using C1"
+        ],
+        "A1 evaluation of B1 representations using C1": [
+            "A1 evaluation of B1 representations using C1"
+        ],
+        "Revisiting C1 for B1 with A1": [
+            "Revisiting C1 for B1 with A1"
+        ],
+        "A1 for B1 in C1": [
+            "A1 for B1 in C1"
+        ],
+        "Balancing A1 and A2: a Framework for B1 C1": [
+            "Balancing A1 and A2: a Framework for B1 C1"
+        ],
+        "A1: Effective, Efficient, and A2": [
+            "A1: Effective, Efficient, and A2"
+        ],
+        "Towards A1 B1 with C1": [
+            "Towards A1 B1 with C1"
+        ],
+        "A1 Strategy for B1 with C1": [
+            "A1 Strategy for B1 with C1"
+        ],
+        "A1: A manually re-annotated B1 benchmark": [
+            "A1: A manually re-annotated B1 benchmark"
+        ],
+        "Benchmarking B1 of C1: From A1 to A2 correlations": [
+            "Benchmarking B1 of C1: From A1 to A2 correlations"
+        ],
+        "Benchmarking B1 for B2": [
+            "Benchmarking B1 for B2"
+        ],
+        "Benchmarking and Improving A1 of B1 with C1": [
+            "Benchmarking and Improving A1 of B1 with C1"
+        ],
+        "Investigating C1 memory access in B1 to study A1": [
+            "Investigating C1 memory access in B1 to study A1"
+        ],
+        "A1 application of C2 to B1": [
+            "A1 application of C2 to B1"
+        ],
+        "Formalising B1 from A1 perspective": [
+            "Formalising B1 from A1 perspective"
+        ],
+        "Leveraging A1 and Theory for B1": [
+            "Leveraging A1 and Theory for B1"
+        ],
+        "Analyzing Behaviors of C1 on B1 with A1": [
+            "Analyzing Behaviors of C1 on B1 with A1"
+        ],
+        "Analyzing A1 through A2": [
+            "Analyzing A1 through A2"
+        ]
+    }
+}
